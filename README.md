@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rcosta26/Animation---SVG/blob/master/logo.PNG" width=512 height=256>
+  <img src="https://github.com/rcosta26/App---SIPA---Java/blob/master/logo.png" width=512 height=256>
 
   <h3 align="center"><b>Java App</b></h3>
 
