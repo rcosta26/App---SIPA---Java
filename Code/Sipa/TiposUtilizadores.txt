@@ -1,0 +1,3 @@
+admin#true#true#true#true#true#true
+seguranca#true#true#true#true#false#false
+instituicao#false#false#false#false#true#false

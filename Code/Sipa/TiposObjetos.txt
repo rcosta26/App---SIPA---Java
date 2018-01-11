@@ -1,0 +1,5 @@
+Lápis#sol
+Pen#dle
+Caderno#sol
+Carteira#dle
+Livro#ESEIG
